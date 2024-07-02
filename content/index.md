@@ -4,7 +4,7 @@ title: Introduction
 description: Introduction
 draft: false
 tags: intro
-date: 
+
 ---
 
 This is the personal website of Atreyi Bose.
