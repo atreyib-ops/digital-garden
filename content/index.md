@@ -1,6 +1,11 @@
+
 ---
-title: Atreyi Bose
+title: Introduction
+description: Introduction
+draft: false
+tags: intro
+date: 
 ---
 
-
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is the personal website of Atreyi Bose.
+You can find me on [LinkedIn](https://www.linkedin.com/in/atreyi/) and on [Twitter](https://twitter.com/atreyibose).
