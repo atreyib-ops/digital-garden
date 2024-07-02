@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: Atreyi Bose
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is the personal website of Atreyi Bose.
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/atreyi/).
+
+
+
+Made with [Quartz](https://quartz.jzhao.xyz).
